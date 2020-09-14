@@ -1,1 +1,1 @@
-# merit
+This is a readme file for Merit
